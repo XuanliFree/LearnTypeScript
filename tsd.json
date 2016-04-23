@@ -6,10 +6,10 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "angularjs/angular.d.ts": {
-      "commit": "4bd9b47f0ea79ba83c2e831c56bcaf8ba3a2c8ad"
+      "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
     },
     "jquery/jquery.d.ts": {
-      "commit": "4bd9b47f0ea79ba83c2e831c56bcaf8ba3a2c8ad"
+      "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
     },
     "angularjs/angular-resource.d.ts": {
       "commit": "d95596ca622a23e258859a2d7d71c4af959da21a"
@@ -25,6 +25,12 @@
     },
     "angular-ui-router/angular-ui-router.d.ts": {
       "commit": "4bd9b47f0ea79ba83c2e831c56bcaf8ba3a2c8ad"
+    },
+    "ag-grid/ag-grid.d.ts": {
+      "commit": "5c5c3d26a1f30c4c29eeccbf318d44e844327ca4"
+    },
+    "ng-table/ng-table.d.ts": {
+      "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
     }
   }
 }

@@ -4,6 +4,7 @@
 		"sourceMap": true,
 		"inlineSourceMap": true,
         "module": "amd",
+		"declaration": true,
 		"inlineSources": true
 	}
 }

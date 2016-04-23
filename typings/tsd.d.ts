@@ -5,3 +5,5 @@
 /// <reference path="angularjs/angular-route.d.ts" />
 /// <reference path="requirejs/require.d.ts" />
 /// <reference path="angular-ui-router/angular-ui-router.d.ts" />
+/// <reference path="ag-grid/ag-grid.d.ts" />
+/// <reference path="ng-table/ng-table.d.ts" />
