@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>State Route Demo</title>
+    </head>
+    <body ng-app="stateDemo">
+        <div class="" ng-controller="mainCtrl as vm">
+            <button class ="btn btn-default" type="button" ng-click="vm.stateRoute(1);">route1</button>
+            <button type="button" ng-click="vm.stateRoute(2);">route2</button>
+        </div>
+        <div ui-view></div>
+         <script src="../scripts/angular.js"></script>
+         <script src="../scripts/angular-ui-router.js"></script>
+         <script src="app.js"></script>
+    </body>
+</html>

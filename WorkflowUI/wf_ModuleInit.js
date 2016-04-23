@@ -1,0 +1,5 @@
+/// <reference path="../typings/tsd.d.ts" />
+define([], function () {
+    return angular.module("workflow", []);
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoid2ZfTW9kdWxlSW5pdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIndmX01vZHVsZUluaXQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsNENBQTRDO0FBQzVDLE1BQU0sQ0FBQyxFQUFFLEVBQUU7SUFDUCxNQUFNLENBQUMsT0FBTyxDQUFDLE1BQU0sQ0FBQyxVQUFVLEVBQUUsRUFBRSxDQUFDLENBQUM7QUFDMUMsQ0FBQyxDQUFDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvLy8gPHJlZmVyZW5jZSBwYXRoPVwiLi4vdHlwaW5ncy90c2QuZC50c1wiIC8+XHJcbmRlZmluZShbXSwgZnVuY3Rpb24oKXtcclxuICAgIHJldHVybiBhbmd1bGFyLm1vZHVsZShcIndvcmtmbG93XCIsIFtdKTtcclxufSk7Il19

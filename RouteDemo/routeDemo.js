@@ -1,0 +1,5 @@
+/// <reference path="typings/tsd.d.ts" />
+define([], function () {
+    return angular.module("abc", []);
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicm91dGVEZW1vLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsicm91dGVEZW1vLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLHlDQUF5QztBQUV6QyxNQUFNLENBQUMsRUFBRSxFQUFFO0lBQ1AsTUFBTSxDQUFDLE9BQU8sQ0FBQyxNQUFNLENBQUMsS0FBSyxFQUFFLEVBQUUsQ0FBQyxDQUFDO0FBQ3JDLENBQUMsQ0FBQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLy8vIDxyZWZlcmVuY2UgcGF0aD1cInR5cGluZ3MvdHNkLmQudHNcIiAvPlxyXG5cclxuZGVmaW5lKFtdLCBmdW5jdGlvbigpe1xyXG4gICAgcmV0dXJuIGFuZ3VsYXIubW9kdWxlKFwiYWJjXCIsIFtdKTtcclxufSk7Il19
